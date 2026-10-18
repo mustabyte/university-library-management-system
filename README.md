@@ -121,11 +121,21 @@ Both the terminal and Streamlit interfaces use the same underlying library logic
 
 **Note:** Local JSON storage is intended for learning and demonstration. Cloud deployments with ephemeral storage may not preserve updates after application restarts or redeployments. A persistent database is recommended for production use.
 
-## 🚀 Deployment
 
-The Streamlit application is designed for deployment using Streamlit Community Cloud.
+## 🚀 Live Demo
 
-A public live-demo link will be added after deployment.
+🌐 **[Launch University Library Management System](https://university-library-ms.streamlit.app/)**
+
+The application is deployed on Streamlit Community Cloud.
+
+### Features
+- Interactive library dashboard
+- Book and member management
+- Borrowing and return management
+- Overdue tracking and fine calculations
+- Interactive Plotly analytics
+- CSV report exports
+
 
 ## 🔮 Future Improvements
 
