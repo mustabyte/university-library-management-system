@@ -1,0 +1,1222 @@
+[
+    {
+        "loan_id": "L001",
+        "book_id": "B051",
+        "member_id": "S023",
+        "borrow_date": "2026-02-14",
+        "due_date": "2026-02-28",
+        "return_date": "2026-02-15",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L002",
+        "book_id": "B047",
+        "member_id": "S018",
+        "borrow_date": "2026-07-21",
+        "due_date": "2026-08-04",
+        "return_date": "2026-08-08",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L003",
+        "book_id": "B052",
+        "member_id": "S037",
+        "borrow_date": "2025-11-01",
+        "due_date": "2025-11-15",
+        "return_date": "2025-11-14",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L004",
+        "book_id": "B013",
+        "member_id": "S003",
+        "borrow_date": "2026-02-17",
+        "due_date": "2026-03-03",
+        "return_date": "2026-02-19",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L005",
+        "book_id": "B063",
+        "member_id": "S028",
+        "borrow_date": "2026-05-27",
+        "due_date": "2026-06-10",
+        "return_date": "2026-06-15",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L006",
+        "book_id": "B100",
+        "member_id": "S039",
+        "borrow_date": "2026-08-11",
+        "due_date": "2026-08-25",
+        "return_date": "2026-08-24",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L007",
+        "book_id": "B056",
+        "member_id": "S002",
+        "borrow_date": "2026-03-06",
+        "due_date": "2026-03-20",
+        "return_date": "2026-03-09",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L008",
+        "book_id": "B054",
+        "member_id": "F005",
+        "borrow_date": "2025-10-03",
+        "due_date": "2025-11-02",
+        "return_date": "2025-10-30",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L009",
+        "book_id": "B036",
+        "member_id": "S011",
+        "borrow_date": "2026-01-04",
+        "due_date": "2026-01-18",
+        "return_date": "2026-01-09",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L010",
+        "book_id": "B040",
+        "member_id": "F004",
+        "borrow_date": "2026-06-27",
+        "due_date": "2026-07-27",
+        "return_date": "2026-08-08",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L011",
+        "book_id": "B009",
+        "member_id": "S018",
+        "borrow_date": "2026-06-09",
+        "due_date": "2026-06-23",
+        "return_date": "2026-07-02",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L012",
+        "book_id": "B049",
+        "member_id": "S040",
+        "borrow_date": "2026-02-02",
+        "due_date": "2026-02-16",
+        "return_date": "2026-02-11",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L013",
+        "book_id": "B099",
+        "member_id": "S018",
+        "borrow_date": "2026-06-05",
+        "due_date": "2026-06-19",
+        "return_date": "2026-06-26",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L014",
+        "book_id": "B066",
+        "member_id": "S014",
+        "borrow_date": "2026-03-16",
+        "due_date": "2026-03-30",
+        "return_date": "2026-04-02",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L015",
+        "book_id": "B067",
+        "member_id": "F004",
+        "borrow_date": "2026-06-24",
+        "due_date": "2026-07-24",
+        "return_date": "2026-07-28",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L016",
+        "book_id": "B093",
+        "member_id": "S039",
+        "borrow_date": "2025-11-23",
+        "due_date": "2025-12-07",
+        "return_date": "2025-12-14",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L017",
+        "book_id": "B052",
+        "member_id": "S016",
+        "borrow_date": "2026-08-27",
+        "due_date": "2026-09-10",
+        "return_date": "2026-08-30",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L018",
+        "book_id": "B023",
+        "member_id": "F015",
+        "borrow_date": "2025-09-15",
+        "due_date": "2025-10-15",
+        "return_date": "2025-10-10",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L019",
+        "book_id": "B049",
+        "member_id": "S040",
+        "borrow_date": "2026-06-18",
+        "due_date": "2026-07-02",
+        "return_date": "2026-07-05",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L020",
+        "book_id": "B038",
+        "member_id": "F003",
+        "borrow_date": "2025-11-27",
+        "due_date": "2025-12-27",
+        "return_date": "2025-12-28",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L021",
+        "book_id": "B040",
+        "member_id": "S023",
+        "borrow_date": "2026-02-19",
+        "due_date": "2026-03-05",
+        "return_date": "2026-03-02",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L022",
+        "book_id": "B010",
+        "member_id": "S009",
+        "borrow_date": "2026-03-06",
+        "due_date": "2026-03-20",
+        "return_date": "2026-03-12",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L023",
+        "book_id": "B097",
+        "member_id": "F002",
+        "borrow_date": "2026-08-13",
+        "due_date": "2026-09-12",
+        "return_date": "2026-09-02",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L024",
+        "book_id": "B046",
+        "member_id": "S021",
+        "borrow_date": "2026-07-27",
+        "due_date": "2026-08-10",
+        "return_date": "2026-08-18",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L025",
+        "book_id": "B085",
+        "member_id": "S028",
+        "borrow_date": "2026-01-14",
+        "due_date": "2026-01-28",
+        "return_date": "2026-01-19",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L026",
+        "book_id": "B068",
+        "member_id": "S004",
+        "borrow_date": "2025-12-02",
+        "due_date": "2025-12-16",
+        "return_date": "2025-12-08",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L027",
+        "book_id": "B077",
+        "member_id": "S004",
+        "borrow_date": "2026-08-23",
+        "due_date": "2026-09-06",
+        "return_date": "2026-09-06",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L028",
+        "book_id": "B016",
+        "member_id": "S009",
+        "borrow_date": "2026-02-20",
+        "due_date": "2026-03-06",
+        "return_date": "2026-03-08",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L029",
+        "book_id": "B004",
+        "member_id": "S008",
+        "borrow_date": "2026-04-22",
+        "due_date": "2026-05-06",
+        "return_date": "2026-05-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L030",
+        "book_id": "B040",
+        "member_id": "S044",
+        "borrow_date": "2025-12-04",
+        "due_date": "2025-12-18",
+        "return_date": "2025-12-10",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L031",
+        "book_id": "B039",
+        "member_id": "S043",
+        "borrow_date": "2026-04-22",
+        "due_date": "2026-05-06",
+        "return_date": "2026-04-28",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L032",
+        "book_id": "B046",
+        "member_id": "S014",
+        "borrow_date": "2026-05-02",
+        "due_date": "2026-05-16",
+        "return_date": "2026-05-18",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L033",
+        "book_id": "B048",
+        "member_id": "F014",
+        "borrow_date": "2026-01-12",
+        "due_date": "2026-02-11",
+        "return_date": "2026-01-28",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L034",
+        "book_id": "B058",
+        "member_id": "S001",
+        "borrow_date": "2026-02-02",
+        "due_date": "2026-02-16",
+        "return_date": "2026-02-04",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L035",
+        "book_id": "B017",
+        "member_id": "S027",
+        "borrow_date": "2025-11-25",
+        "due_date": "2025-12-09",
+        "return_date": "2025-12-13",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L036",
+        "book_id": "B046",
+        "member_id": "F001",
+        "borrow_date": "2025-12-28",
+        "due_date": "2026-01-27",
+        "return_date": "2026-01-26",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L037",
+        "book_id": "B022",
+        "member_id": "S020",
+        "borrow_date": "2026-08-10",
+        "due_date": "2026-08-24",
+        "return_date": "2026-08-24",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L038",
+        "book_id": "B058",
+        "member_id": "S021",
+        "borrow_date": "2026-04-10",
+        "due_date": "2026-04-24",
+        "return_date": "2026-04-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L039",
+        "book_id": "B031",
+        "member_id": "S041",
+        "borrow_date": "2026-02-17",
+        "due_date": "2026-03-03",
+        "return_date": "2026-02-25",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L040",
+        "book_id": "B081",
+        "member_id": "S014",
+        "borrow_date": "2026-05-01",
+        "due_date": "2026-05-15",
+        "return_date": "2026-05-11",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L041",
+        "book_id": "B093",
+        "member_id": "S030",
+        "borrow_date": "2025-09-11",
+        "due_date": "2025-09-25",
+        "return_date": "2025-09-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L042",
+        "book_id": "B049",
+        "member_id": "S001",
+        "borrow_date": "2026-02-03",
+        "due_date": "2026-02-17",
+        "return_date": "2026-02-25",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L043",
+        "book_id": "B068",
+        "member_id": "S016",
+        "borrow_date": "2026-04-13",
+        "due_date": "2026-04-27",
+        "return_date": "2026-05-03",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L044",
+        "book_id": "B007",
+        "member_id": "S004",
+        "borrow_date": "2026-06-16",
+        "due_date": "2026-06-30",
+        "return_date": "2026-06-25",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L045",
+        "book_id": "B049",
+        "member_id": "S042",
+        "borrow_date": "2026-04-24",
+        "due_date": "2026-05-08",
+        "return_date": "2026-04-26",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L046",
+        "book_id": "B054",
+        "member_id": "S014",
+        "borrow_date": "2026-01-08",
+        "due_date": "2026-01-22",
+        "return_date": "2026-01-27",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L047",
+        "book_id": "B071",
+        "member_id": "S028",
+        "borrow_date": "2026-04-28",
+        "due_date": "2026-05-12",
+        "return_date": "2026-05-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L048",
+        "book_id": "B030",
+        "member_id": "F004",
+        "borrow_date": "2026-03-01",
+        "due_date": "2026-03-31",
+        "return_date": "2026-03-10",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L049",
+        "book_id": "B097",
+        "member_id": "S023",
+        "borrow_date": "2025-11-20",
+        "due_date": "2025-12-04",
+        "return_date": "2025-12-05",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L050",
+        "book_id": "B096",
+        "member_id": "S007",
+        "borrow_date": "2025-11-15",
+        "due_date": "2025-11-29",
+        "return_date": "2025-11-26",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L051",
+        "book_id": "B008",
+        "member_id": "S016",
+        "borrow_date": "2026-05-12",
+        "due_date": "2026-05-26",
+        "return_date": "2026-05-29",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L052",
+        "book_id": "B075",
+        "member_id": "F014",
+        "borrow_date": "2026-07-06",
+        "due_date": "2026-08-05",
+        "return_date": "2026-07-13",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L053",
+        "book_id": "B015",
+        "member_id": "S017",
+        "borrow_date": "2025-10-14",
+        "due_date": "2025-10-28",
+        "return_date": "2025-11-02",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L054",
+        "book_id": "B060",
+        "member_id": "S013",
+        "borrow_date": "2025-09-17",
+        "due_date": "2025-10-01",
+        "return_date": "2025-10-05",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L055",
+        "book_id": "B076",
+        "member_id": "S033",
+        "borrow_date": "2026-02-11",
+        "due_date": "2026-02-25",
+        "return_date": "2026-02-20",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L056",
+        "book_id": "B026",
+        "member_id": "S042",
+        "borrow_date": "2026-03-07",
+        "due_date": "2026-03-21",
+        "return_date": "2026-03-28",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L057",
+        "book_id": "B022",
+        "member_id": "S005",
+        "borrow_date": "2025-12-12",
+        "due_date": "2025-12-26",
+        "return_date": "2025-12-14",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L058",
+        "book_id": "B054",
+        "member_id": "F011",
+        "borrow_date": "2025-11-26",
+        "due_date": "2025-12-26",
+        "return_date": "2025-11-27",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L059",
+        "book_id": "B046",
+        "member_id": "S002",
+        "borrow_date": "2025-10-27",
+        "due_date": "2025-11-10",
+        "return_date": "2025-10-30",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L060",
+        "book_id": "B029",
+        "member_id": "S014",
+        "borrow_date": "2026-08-03",
+        "due_date": "2026-08-17",
+        "return_date": "2026-08-29",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L061",
+        "book_id": "B022",
+        "member_id": "S036",
+        "borrow_date": "2025-09-14",
+        "due_date": "2025-09-28",
+        "return_date": "2025-10-03",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L062",
+        "book_id": "B039",
+        "member_id": "F007",
+        "borrow_date": "2026-01-29",
+        "due_date": "2026-02-28",
+        "return_date": "2026-02-06",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L063",
+        "book_id": "B040",
+        "member_id": "S041",
+        "borrow_date": "2026-05-21",
+        "due_date": "2026-06-04",
+        "return_date": "2026-05-29",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L064",
+        "book_id": "B033",
+        "member_id": "F003",
+        "borrow_date": "2026-03-29",
+        "due_date": "2026-04-28",
+        "return_date": "2026-04-07",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L065",
+        "book_id": "B047",
+        "member_id": "F008",
+        "borrow_date": "2026-04-19",
+        "due_date": "2026-05-19",
+        "return_date": "2026-05-29",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L066",
+        "book_id": "B074",
+        "member_id": "S041",
+        "borrow_date": "2025-10-15",
+        "due_date": "2025-10-29",
+        "return_date": "2025-10-25",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L067",
+        "book_id": "B047",
+        "member_id": "S021",
+        "borrow_date": "2026-04-10",
+        "due_date": "2026-04-24",
+        "return_date": "2026-04-14",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L068",
+        "book_id": "B093",
+        "member_id": "S023",
+        "borrow_date": "2025-10-02",
+        "due_date": "2025-10-16",
+        "return_date": "2025-10-22",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L069",
+        "book_id": "B024",
+        "member_id": "S037",
+        "borrow_date": "2026-08-21",
+        "due_date": "2026-09-04",
+        "return_date": "2026-08-24",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L070",
+        "book_id": "B079",
+        "member_id": "F013",
+        "borrow_date": "2026-01-29",
+        "due_date": "2026-02-28",
+        "return_date": "2026-02-12",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L071",
+        "book_id": "B039",
+        "member_id": "S039",
+        "borrow_date": "2025-09-20",
+        "due_date": "2025-10-04",
+        "return_date": "2025-10-11",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L072",
+        "book_id": "B017",
+        "member_id": "S012",
+        "borrow_date": "2026-05-04",
+        "due_date": "2026-05-18",
+        "return_date": "2026-05-21",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L073",
+        "book_id": "B015",
+        "member_id": "S041",
+        "borrow_date": "2026-08-23",
+        "due_date": "2026-09-06",
+        "return_date": "2026-09-11",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L074",
+        "book_id": "B056",
+        "member_id": "S015",
+        "borrow_date": "2026-04-17",
+        "due_date": "2026-05-01",
+        "return_date": "2026-05-01",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L075",
+        "book_id": "B073",
+        "member_id": "S045",
+        "borrow_date": "2025-11-02",
+        "due_date": "2025-11-16",
+        "return_date": "2025-11-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L076",
+        "book_id": "B023",
+        "member_id": "S007",
+        "borrow_date": "2025-10-26",
+        "due_date": "2025-11-09",
+        "return_date": "2025-10-31",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L077",
+        "book_id": "B063",
+        "member_id": "S044",
+        "borrow_date": "2026-08-16",
+        "due_date": "2026-08-30",
+        "return_date": "2026-08-27",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L078",
+        "book_id": "B025",
+        "member_id": "S019",
+        "borrow_date": "2025-10-22",
+        "due_date": "2025-11-05",
+        "return_date": "2025-11-05",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L079",
+        "book_id": "B068",
+        "member_id": "S027",
+        "borrow_date": "2026-08-29",
+        "due_date": "2026-09-12",
+        "return_date": "2026-09-21",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L080",
+        "book_id": "B093",
+        "member_id": "F003",
+        "borrow_date": "2025-09-12",
+        "due_date": "2025-10-12",
+        "return_date": "2025-10-02",
+        "fine_rate": 5,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L081",
+        "book_id": "B001",
+        "member_id": "S035",
+        "borrow_date": "2026-09-20",
+        "due_date": "2026-10-04",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L082",
+        "book_id": "B048",
+        "member_id": "S005",
+        "borrow_date": "2026-09-28",
+        "due_date": "2026-10-12",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L083",
+        "book_id": "B098",
+        "member_id": "S036",
+        "borrow_date": "2026-09-29",
+        "due_date": "2026-10-13",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L084",
+        "book_id": "B096",
+        "member_id": "S018",
+        "borrow_date": "2026-09-30",
+        "due_date": "2026-10-14",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L085",
+        "book_id": "B009",
+        "member_id": "S010",
+        "borrow_date": "2026-09-26",
+        "due_date": "2026-10-10",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L086",
+        "book_id": "B040",
+        "member_id": "S045",
+        "borrow_date": "2026-09-29",
+        "due_date": "2026-10-13",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L087",
+        "book_id": "B020",
+        "member_id": "F015",
+        "borrow_date": "2026-09-05",
+        "due_date": "2026-10-05",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L088",
+        "book_id": "B002",
+        "member_id": "S039",
+        "borrow_date": "2026-09-16",
+        "due_date": "2026-09-30",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L089",
+        "book_id": "B100",
+        "member_id": "F001",
+        "borrow_date": "2026-09-11",
+        "due_date": "2026-10-11",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L090",
+        "book_id": "B023",
+        "member_id": "S019",
+        "borrow_date": "2026-09-18",
+        "due_date": "2026-10-02",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L091",
+        "book_id": "B030",
+        "member_id": "F004",
+        "borrow_date": "2026-09-08",
+        "due_date": "2026-10-08",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L092",
+        "book_id": "B037",
+        "member_id": "S019",
+        "borrow_date": "2026-09-30",
+        "due_date": "2026-10-14",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L093",
+        "book_id": "B072",
+        "member_id": "S035",
+        "borrow_date": "2026-09-19",
+        "due_date": "2026-10-03",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L094",
+        "book_id": "B034",
+        "member_id": "F015",
+        "borrow_date": "2026-09-11",
+        "due_date": "2026-10-11",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L095",
+        "book_id": "B057",
+        "member_id": "S035",
+        "borrow_date": "2026-09-22",
+        "due_date": "2026-10-06",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L096",
+        "book_id": "B072",
+        "member_id": "S026",
+        "borrow_date": "2026-09-18",
+        "due_date": "2026-10-02",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L097",
+        "book_id": "B057",
+        "member_id": "F009",
+        "borrow_date": "2026-09-19",
+        "due_date": "2026-10-19",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L098",
+        "book_id": "B090",
+        "member_id": "F011",
+        "borrow_date": "2026-09-26",
+        "due_date": "2026-10-26",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L099",
+        "book_id": "B020",
+        "member_id": "S020",
+        "borrow_date": "2026-10-04",
+        "due_date": "2026-10-18",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L100",
+        "book_id": "B014",
+        "member_id": "F013",
+        "borrow_date": "2026-10-15",
+        "due_date": "2026-11-14",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L101",
+        "book_id": "B059",
+        "member_id": "S019",
+        "borrow_date": "2026-10-10",
+        "due_date": "2026-10-24",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L102",
+        "book_id": "B064",
+        "member_id": "S037",
+        "borrow_date": "2026-10-05",
+        "due_date": "2026-10-19",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L103",
+        "book_id": "B045",
+        "member_id": "S007",
+        "borrow_date": "2026-10-04",
+        "due_date": "2026-10-18",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L104",
+        "book_id": "B040",
+        "member_id": "F008",
+        "borrow_date": "2026-09-22",
+        "due_date": "2026-10-22",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L105",
+        "book_id": "B045",
+        "member_id": "F001",
+        "borrow_date": "2026-10-06",
+        "due_date": "2026-11-05",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L106",
+        "book_id": "B071",
+        "member_id": "S018",
+        "borrow_date": "2026-10-11",
+        "due_date": "2026-10-25",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L107",
+        "book_id": "B093",
+        "member_id": "S042",
+        "borrow_date": "2026-10-10",
+        "due_date": "2026-10-24",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L108",
+        "book_id": "B036",
+        "member_id": "F004",
+        "borrow_date": "2026-10-03",
+        "due_date": "2026-11-02",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L109",
+        "book_id": "B091",
+        "member_id": "S043",
+        "borrow_date": "2026-10-12",
+        "due_date": "2026-10-26",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L110",
+        "book_id": "B049",
+        "member_id": "S037",
+        "borrow_date": "2026-10-06",
+        "due_date": "2026-10-20",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L111",
+        "book_id": "B087",
+        "member_id": "S031",
+        "borrow_date": "2026-10-16",
+        "due_date": "2026-10-30",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L112",
+        "book_id": "B022",
+        "member_id": "S028",
+        "borrow_date": "2026-10-07",
+        "due_date": "2026-10-21",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L113",
+        "book_id": "B037",
+        "member_id": "F008",
+        "borrow_date": "2026-10-13",
+        "due_date": "2026-11-12",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L114",
+        "book_id": "B032",
+        "member_id": "S010",
+        "borrow_date": "2026-10-09",
+        "due_date": "2026-10-23",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L115",
+        "book_id": "B095",
+        "member_id": "S005",
+        "borrow_date": "2026-10-11",
+        "due_date": "2026-10-25",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L116",
+        "book_id": "B059",
+        "member_id": "S033",
+        "borrow_date": "2026-10-14",
+        "due_date": "2026-10-28",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L117",
+        "book_id": "B100",
+        "member_id": "S043",
+        "borrow_date": "2026-10-08",
+        "due_date": "2026-10-22",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L118",
+        "book_id": "B071",
+        "member_id": "F002",
+        "borrow_date": "2026-09-23",
+        "due_date": "2026-10-23",
+        "return_date": null,
+        "fine_rate": 5,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L119",
+        "book_id": "B030",
+        "member_id": "S027",
+        "borrow_date": "2026-10-03",
+        "due_date": "2026-10-17",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L120",
+        "book_id": "B089",
+        "member_id": "S045",
+        "borrow_date": "2026-10-07",
+        "due_date": "2026-10-21",
+        "return_date": null,
+        "fine_rate": 10,
+        "status": "Active"
+    },
+    {
+        "loan_id": "L121",
+        "book_id": "B101",
+        "member_id": "S046",
+        "borrow_date": "2026-10-17",
+        "due_date": "2026-10-31",
+        "return_date": "2026-10-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    },
+    {
+        "loan_id": "L122",
+        "book_id": "B002",
+        "member_id": "S047",
+        "borrow_date": "2026-10-17",
+        "due_date": "2026-10-31",
+        "return_date": "2026-10-17",
+        "fine_rate": 10,
+        "status": "Returned"
+    }
+]
